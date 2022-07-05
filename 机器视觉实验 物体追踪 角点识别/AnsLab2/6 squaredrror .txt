@@ -1,0 +1,3 @@
+squared error 
+X方向 0.6184
+Y方向 1.6567

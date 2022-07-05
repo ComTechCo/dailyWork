@@ -1,0 +1,12 @@
+Include the results of understanding the RGB image histogram in your report.
+
+对于一个RGB图像的二值化，我们需要将图像的R G B三个通道分离，以便对每一个独立的色彩通道进行二值化处理。
+或是，将图像转换为灰度图像，即将RGB三个通道合并处理。
+
+What is the differences between the histograms?
+Is it possible to decide according to the histograms, which image contains only one colour and which contains two colours?
+
+通过观察直方图，发现有两种颜色时，直方图有两个波峰，仅有一种颜色时，直方图只有一个波峰。
+故通过直方图观察是可行的。
+对于更多的颜色，或许可以尝试使用傅里叶变换分解。
+在进行颜色识别的工程实践中，我们更多使用HSV色域，因为HSV色域不易受光照影响。
