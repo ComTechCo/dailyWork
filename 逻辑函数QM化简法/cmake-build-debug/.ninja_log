@@ -1,0 +1,10 @@
+# ninja log v5
+156	196	1651287123547673717	simplePlayground	c5bda2a5bfc5980e
+1	155	1651287123504911090	CMakeFiles/simplePlayground.dir/main.c.o	c6de9b55a79f0653
+0	52	1657511023436351737	build.ninja	b762e0999d6dc323
+1	156	1651287123503769050	CMakeFiles/simplePlayground.dir/List_Operation.c.o	65ea2b9a406dd85d
+0	25	1651284669441467579	CMakeFiles/simplePlayground.dir/Input.c.o	2de28f7e6ba48685
+13	190	1657511046571541568	CMakeFiles/simplePlayground.dir/List_Operation.c.o	da6db92beeacf866
+13	190	1657511046571519694	CMakeFiles/simplePlayground.dir/main.c.o	6a2fdc266606ffb6
+13	190	1657511046570799255	CMakeFiles/simplePlayground.dir/Input.c.o	1ef9e5977f17987f
+190	228	1657511046611519730	simplePlayground	b06404e1ffa77cce

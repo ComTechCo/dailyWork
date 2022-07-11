@@ -1,0 +1,3 @@
+/Users/jinmengfei/dailyWork/simplePlayground/cmake-build-debug/CMakeFiles/simplePlayground.dir
+/Users/jinmengfei/dailyWork/simplePlayground/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jinmengfei/dailyWork/simplePlayground/cmake-build-debug/CMakeFiles/rebuild_cache.dir
