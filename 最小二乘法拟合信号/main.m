@@ -1,12 +1,12 @@
 clear;
-mode = 3; 
+mode = 1; 
 if mode ==1
     mtitle = "测试函数";
     t = 2:0.01:2.2;
     % 声明时间序列
-    w1 = 30;
+    w1 = 2*pi*50;
     %iData = 100*sin(1.3*w1.*t+pi/4)+50*exp(-t/0.1);
-    iData = 160*sin(0.9*w1.*t+pi/5)+150*exp(-t/0.1).*sin(3.4*w1.*t+pi/4);
+    iData = 160*sin(w1.*t+pi/5)+150*exp(-t/0.1).*sin(3.4*w1.*t+pi/4);
 elseif mode ==2
     % 第一组测试数据
     mtitle = "第一组测试数据";
